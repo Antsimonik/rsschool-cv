@@ -31,3 +31,12 @@ function positiveSum(arr) {
 return sum;
 }
 ```
+
+## Education:
+
+- SoloLearn
+- YouTube.
+
+## English language:
+
+- Level B2
